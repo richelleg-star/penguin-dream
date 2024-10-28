@@ -7,4 +7,5 @@ This game utilizes UE5 to make it playable.
 ## Creators
 
 Software Developer: Richelle Gust
+
 Sprite Designer + Texture Designer: Kristy Le
